@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Uncertainties in Proton Therapy and Their Impact on
+  Treatment Precision
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Erik
+    family-names: Fura
+    email: Erik.Fura@Skandion.se
+  - given-names: Albin
+    family-names: Karlsson
+    email: albka@kth.se
