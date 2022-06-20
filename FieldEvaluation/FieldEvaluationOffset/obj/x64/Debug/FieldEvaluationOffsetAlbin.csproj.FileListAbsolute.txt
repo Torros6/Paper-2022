@@ -1,0 +1,16 @@
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\bin\x64\Debug\FieldEvaluationOffsetAlbin.esapi.dll
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\bin\x64\Debug\FieldEvaluationOffsetAlbin.esapi.pdb
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\obj\x64\Debug\FieldEvaluationOffsetAlbin.csprojResolveAssemblyReference.cache
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\obj\x64\Debug\FieldEvaluationOffsetAlbin.Form1.resources
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\obj\x64\Debug\FieldEvaluationOffsetAlbin.OffsetCorrection.resources
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\obj\x64\Debug\FieldEvaluationOffsetAlbin.csproj.GenerateResource.cache
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\obj\x64\Debug\FieldEvaluationOffsetAlbin.csproj.CoreCompileInputs.cache
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\obj\x64\Debug\FieldEvaluationOffsetAlbin.csproj.CopyComplete
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\obj\x64\Debug\FieldEvaluationOffsetAlbin.esapi.dll
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\obj\x64\Debug\FieldEvaluationOffsetAlbin.esapi.pdb
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\bin\x64\Debug\slumpade avvikelser från pps gkv csp.xlsx
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\bin\x64\Debug\IronXL.dll
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\bin\x64\Debug\IronXL.xml

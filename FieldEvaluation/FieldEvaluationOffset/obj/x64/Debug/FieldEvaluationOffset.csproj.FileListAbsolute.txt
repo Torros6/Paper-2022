@@ -1,0 +1,13 @@
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\bin\x64\Debug\FieldEvaluationOffset.esapi.dll
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\bin\x64\Debug\FieldEvaluationOffset.esapi.pdb
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\bin\x64\Debug\VMS.TPS.Common.Model.API.dll
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\bin\x64\Debug\VMS.TPS.Common.Model.Interface.dll
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\bin\x64\Debug\VMS.TPS.Common.Model.Types.dll
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\obj\x64\Debug\FieldEvaluationOffset.csprojResolveAssemblyReference.cache
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\obj\x64\Debug\FieldEvaluationOffset.Form1.resources
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\obj\x64\Debug\FieldEvaluationOffset.OffsetCorrection.resources
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\obj\x64\Debug\FieldEvaluationOffset.csproj.GenerateResource.cache
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\obj\x64\Debug\FieldEvaluationOffset.csproj.CoreCompileInputs.cache
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\obj\x64\Debug\FieldEvaluationOffset.csproj.CopyComplete
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\obj\x64\Debug\FieldEvaluationOffset.esapi.dll
+G:\Gemensam\Till-folders and personal folders\Albin K\Från Erik\FieldEvaluation\FieldEvaluationOffset\obj\x64\Debug\FieldEvaluationOffset.esapi.pdb
